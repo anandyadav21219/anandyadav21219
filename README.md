@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think i can help you**
 
-[![Anand's github activity graph](https://activity-graph.herokuapp.com/graph?username=anandyadav21219)](https://github.com/anandyadav21219/github-readme-activity-graph)
+[![Anand's github activity graph](https://activity-graph.herokuapp.com/graph?username=anandyadav21219&theme=dracula)](https://github.com/anandyadav21219/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
