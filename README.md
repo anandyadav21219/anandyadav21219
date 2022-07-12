@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Yadav</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandyadav21219" alt="anandyadav21219" /></a> </p>
-
 - 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **Flutter, Android, iOS and anything related to mobile app development**
