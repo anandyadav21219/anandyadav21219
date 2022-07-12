@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think i can help you**
 
+[![Anand's github activity graph](https://activity-graph.herokuapp.com/graph?username=anandyadav21219)](https://github.com/anandyadav21219/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anandyadav21219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandyadav21219" height="30" width="40" /></a>
