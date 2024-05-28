@@ -1,4 +1,4 @@
-## [Anand Yadav]
+## Anand Yadav
 
 ### Professional App Developer | [Flutter || Android || iOS || Flutterflow || Firebase || ]
 
@@ -6,7 +6,7 @@
 
 ### About Me
 
-Greetings! I'm Anand Yadav, a seasoned **App Developer** with robust expertise in designing and developing high-quality mobile applications. My career spans over 5 years in the tech industry, where I've honed my skills in both front-end and back-end development. I am passionate about leveraging cutting-edge technologies to create seamless and intuitive user experiences.
+Greetings! I'm Anand Yadav, a seasoned **App Developer** with robust expertise in designing and developing high-quality mobile applications. My career spans over **5+** years in the tech industry, where I've honed my skills in both front-end and back-end development. I am passionate about leveraging cutting-edge technologies to create seamless and intuitive user experiences.
 
 - **Location:** Gujarat, India
 - **Email:** [anandyadav21219@gmail.com](mailto:anandyadav21219@gmail.com)
