@@ -1,6 +1,6 @@
 ## Anand Yadav
 
-### Professional App Developer | [Flutter || Android || iOS || Flutterflow || Firebase || ]
+### Professional App Developer | [Flutter || Android || iOS || Flutterflow || Firebase]
 
 ---
 
