@@ -10,9 +10,7 @@ Greetings! I'm Anand Yadav, a seasoned **App Developer** with robust expertise i
 
 - **Location:** Gujarat, India
 - **Email:** [anandyadav21219@gmail.com](mailto:anandyadav21219@gmail.com)
-- **LinkedIn:** [Link](https://www.linkedin.com/in/anand-yadav-app-developer/)
-- **Portfolio:** [Link](https://github.com/anandyadav21219/)
-
+- **LinkedIn:** [Link](https://www.linkedin.com/in/anandjy/)
 ---
 
 ### Core Competencies
@@ -53,7 +51,7 @@ Greetings! I'm Anand Yadav, a seasoned **App Developer** with robust expertise i
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me through any of the following channels:
 
 - **Email:** [anandyadav21219@gmail.com](mailto:anandyadav21219@gmail.com)
-- **LinkedIn:** [Link](https://www.linkedin.com/in/anand-yadav-app-developer/)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/anandjy/)
 
 ---
 
